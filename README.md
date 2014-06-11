@@ -7,7 +7,9 @@ RSVP at [issue #1](https://github.com/jden/jden-turns-26/issues/1)
 
 ## exact details and plans
 
-PR or GTFO. otherwise I'll figure it out in the next few days
+~~PR or GTFO. otherwise I'll figure it out in the next few days~~
+### Update!!
+I (jden) will actually be ditching open source bridge to drink [mang-a-ritas](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.gmdist.com%2Fwp-content%2Fuploads%2Fraz-and-mangorita.jpg&f=1) and swim in the willamette with [meandave](https://github.com/meandavejustice) all day long. Feel free to join us.
 
 ## travel accomodations
 
@@ -15,7 +17,7 @@ if you are coming from out of town you should probably buy tickets and figure st
 
 ## why is this going to be in portland you don't even live (t)here
 
-i will be in town speaking at Open Source Bridge conference
+i will be in town ~~speaking at Open Source Bridge conference~~ hanging out with meandave.
 
 ## contributions
 
